@@ -2,7 +2,6 @@
 * A work in progress template for CPC
 */
 
-#include <cstdlib>
 #include <iostream>
 
 #define ussio std::cin.tie(0), std::cin.sync_with_stdio(0)
@@ -17,8 +16,6 @@ void set(bool);
 void process() // TODO: Find more appropriate name
 {
 	using namespace std;
-	int n; cin >> n;
-	sieve(n);
 	return;
 }
 
@@ -35,7 +32,7 @@ int main()
 void set(bool a)
 {
 	int t = 1;
-	if (a) cin >> t;
+	if (a) std::cin >> t;
 	while (t--) process();
 }
 
