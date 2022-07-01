@@ -4,22 +4,22 @@
 
 ### [Vital]
 
-- [ ] Brute force (trying every possibility)
-- [ ] [Sorting](https://www.topcoder.com/thrive/articles/Sorting)
-- [ ] Strings
-- [ ] [Time complexity](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/)
+- [X] Brute force (trying every possibility)
+- [X] Strings
+- [X] [Time complexity](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/)
 (you only need big-O)
+- [X] [Sorting](https://www.topcoder.com/thrive/articles/Sorting)
+- [X] Recursion [Hedaya's Lectures on Recursion](https://www.youtube.com/playlist?list=PLBkwGJXcrCATvPBkCUoJzURlO3MIeHZji)
 - [ ] [Number Theory](https://www.youtube.com/watch?v=KOzByAdxVZ8)
   - floor, ceil, modulo, divisors, factorization, gcd / lcm, prime factor representation
-- [ ] [STL](https://www.youtube.com/watch?v=PZogbfU4X5E)/your language's library (for example, [cppreference](https://cppreference.com))
+- [ ] Basic range queries
+  - [prefix sums](https://usaco.guide/silver/prefix-sums)
+- [ ] [STL](https://www.youtube.com/watch?v=PZogbfU4X5E)/your language's library
+(for example, [cppreference](https://cppreference.com))
 - [ ] [Binary Search](https://www.youtube.com/watch?v=GU7DpgHINWQ)
 - [ ] [Two pointrers](https://algodaily.com/lessons/using-the-two-pointer-technique)
 - [ ] Basic combinatorics
-  - [ ] [Complete Probability/Combinatorics Practice](https://www.youtube.com/watch?v=le2enQgQ7Ws)
-- [ ] Basic range queries
-  - [ ] [prefix sums](https://usaco.guide/silver/prefix-sums)
-- [ ] Recursion
-  - [ ] [Complete fo DSA/CP : BEST way to Understand](https://www.youtube.com/watch?v=0UM_J1jE1dg)
+  - [Complete Probability/Combinatorics Practice](https://www.youtube.com/watch?v=le2enQgQ7Ws)
 - [ ] Dynamic programming
   - [ ] [Introduction](https://www.youtube.com/watch?v=nqowUJzG-iM)
   - [ ] [Lecture #1 - Fibonacii, iteration vs recursion](https://www.youtube.com/watch?v=YBSt1jYwVfU)
