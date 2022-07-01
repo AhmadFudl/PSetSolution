@@ -11,23 +11,22 @@
 
 using namespace std;
 
-void Test(bool);
+void Test(bool a = MULTIPLE_TESTS);
 // NUM_THEORY_HEADERS
 
-void duck_It() // TODO: Find more appropriate name
+void _main() // TODO O: Find more appropriate name
 {
-  // TODO solve:
 }
 
 int main()
 {
   cin.tie(0);
   cin.sync_with_stdio(0);
-  #ifndef ONLINE_JUDGE
+#ifndef ONLINE_JUDGE
     freopen("in.io", "r", stdin);
-  #endif
+#endif
 
-  Test(SINGLE_TEST);
+  Test();
 
   return EXIT_SUCCESS;
 }
@@ -36,7 +35,7 @@ void Test(bool a)
 {
   int t = 1;
   a && cin >> t;
-  while (t--) duck_It();
+  while (t--) _main();
 }
 
 // NUM_THEORY_FUNCTIONS
